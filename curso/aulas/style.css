@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body{ background-color: rgb(15, 117, 206);
+    font-size: 20px;
+    font-style: italic;
+    color: antiquewhite;
+}
+h1{
+    font-size: 50px;
+    color: black;
+
+}
+
+h2{
+    text-decoration: underline;
+    text-decoration-color: indigo;
+
+}
